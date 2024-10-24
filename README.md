@@ -1,1 +1,2 @@
 # DNA-Sequence-Analysis-Tool
+The objective of this project is to develop a Python tool that can read DNA sequences and perform several basic analyses. The functionalities include calculating GC content, generating the reverse complement of a DNA sequence, searching for specific motifs, and visualizing the sequences using libraries such as Matplotlib or Seaborn. This tool will be beneficial for researchers and students in the field of bioinformatics.
